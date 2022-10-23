@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/diplom_project/data_base/DataBaseHandler.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/data_base/DataBaseHandler.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/main/java/com/example/diplom_project/data_base/DataBaseHandler.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/main/resources/com/example/diplom_project/beginningMessageWindow.fxml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/main/resources/com/example/diplom_project/deleteMessageWindow.fxml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/main/resources/com/example/diplom_project/helloWindow.fxml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/main/resources/com/example/diplom_project/helpWindow.fxml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/main/resources/com/example/diplom_project/inputInformationWindow.fxml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/main/resources/com/example/diplom_project/quitMessageFirstWindow.fxml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/main/resources/com/example/diplom_project/quitMessageFourthWindow.fxml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/main/resources/com/example/diplom_project/quitMessageSecondWindow.fxml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/main/resources/com/example/diplom_project/quitMessageThirdWindow.fxml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/main/resources/com/example/diplom_project/saveMessageWindow.fxml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/main/resources/com/example/diplom_project/showResultWindow.fxml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/com/example/diplom_project/beginningMessageWindow.fxml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/com/example/diplom_project/deleteMessageWindow.fxml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/com/example/diplom_project/helloWindow.fxml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/com/example/diplom_project/helpWindow.fxml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/com/example/diplom_project/inputInformationWindow.fxml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/com/example/diplom_project/quitMessageFirstWindow.fxml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/com/example/diplom_project/quitMessageFourthWindow.fxml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/com/example/diplom_project/quitMessageSecondWindow.fxml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/com/example/diplom_project/quitMessageThirdWindow.fxml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/com/example/diplom_project/saveMessageWindow.fxml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/com/example/diplom_project/showResultWindow.fxml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/diplom_project/beginningMessageWindow.fxml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/diplom_project/deleteMessageWindow.fxml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/diplom_project/helloWindow.fxml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/diplom_project/helpWindow.fxml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/diplom_project/inputInformationWindow.fxml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/diplom_project/quitMessageFirstWindow.fxml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/diplom_project/quitMessageFourthWindow.fxml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/diplom_project/quitMessageSecondWindow.fxml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/diplom_project/quitMessageThirdWindow.fxml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/diplom_project/saveMessageWindow.fxml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/diplom_project/showResultWindow.fxml" charset="windows-1251" />
+  </component>
+</project>
