@@ -68,7 +68,7 @@
           
 
 Для программной реализации ИС были использованы следующие средства и ПО:
-- ЯП Java 8 (JRE 1.8.0_341, JDK 18.0.1, JavaFX 18-ea+6);
+- ЯП Java 8 (JRE 1.8.0_341, JDK 18.0.1, JavaFX 18-ea+6, JDBC);
 - Среда разработки IntelliJ IDEA Community Edition 2022.2.3;
 - Scene Builder для разработки графического интерфейса;
 - СУБД MySQL (MySQL Connector J, MySQL Server 8.0, MySQL WorkBench 8.0 CE);
